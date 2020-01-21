@@ -21,3 +21,16 @@ var Var3 = "Name"
 var Var4 = Var1 + Var2 + Var3
 
 print(Var4)
+
+// Assignment #2 Introduction to True and False
+
+var appState = false
+
+print(appState)
+
+var Number1 = 3
+var Number2 = 5
+
+var comparion = Number1 < Number2
+
+
