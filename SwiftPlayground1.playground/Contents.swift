@@ -31,6 +31,26 @@ print(appState)
 var Number1 = 3
 var Number2 = 5
 
-var comparion = Number1 < Number2
+var comparison = Number1 < Number2
+
+
+var St1 = "Bool statement 1:"
+print(St1)
+print(comparison)
+
+var comparison2 = Number1 > Number2
+
+var St2 = "Bool statement 2:"
+print(St2)
+print(comparison2)
+
+var Number3 = 3
+
+var comparison3 = Number1 == Number3
+
+var St3 = "Bool statement 3:"
+print(St3)
+print(comparison3)
+
 
 
