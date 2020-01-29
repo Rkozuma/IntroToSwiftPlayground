@@ -57,3 +57,13 @@ var St4 = "The sum of the 3 numbers is:"
 print(St4)
 print(equation)
 
+// step 8: As a string 
+
+var S8St1 = "Yellow"
+var S8st2 = "Yellow"
+
+var comparison4 = S8st1 == S8st2
+print(comparison4)
+
+
+
